@@ -40,6 +40,11 @@ plugins:
 # only work in github.io
   - jekyll-remote-theme
 
+
+whitelist:
+  - jekyll_plugins
+
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
