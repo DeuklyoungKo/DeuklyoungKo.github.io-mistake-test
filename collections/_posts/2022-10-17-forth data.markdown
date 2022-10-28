@@ -2,6 +2,8 @@
 title:  "forth data"
 date:   2022-10-17 10:38:55 +0900
 categories: jekyll update
+tag: samptest4
+
 header:
   teaser: /assets/images/notice_contents.png
   overlay_image: /assets/images/bg.jpg

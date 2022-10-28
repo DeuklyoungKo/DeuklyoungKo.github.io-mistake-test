@@ -3,6 +3,8 @@ layout: posts
 title:  "Welcome to Jekyll copy!"
 date:   2022-10-15 10:38:55 +0900
 categories: jekyll update
+tag: samptest
+
 header:
   teaser: /assets/images/notice_contents.png
 ---
