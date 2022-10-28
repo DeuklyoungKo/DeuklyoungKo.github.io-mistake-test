@@ -41,6 +41,6 @@ gem "jekyll-seo-tag"
 
 # only work in github.io
 gem "jekyll-remote-theme"
-# gem "github-pages", group: :jekyll_plugins
+gem "github-pages", group: :jekyll_plugins
 gem "jekyll-include-cache", group: :jekyll_plugins
 gem "jekyll-seo-tag", group: :jekyll_plugins
