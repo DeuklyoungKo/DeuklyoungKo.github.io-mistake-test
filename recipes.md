@@ -1,7 +1,7 @@
 ---
 title: Recipes
 layout: collection
-permalink: /recipes/
+# permalink: /recipes/
 collection: recipes
 # collection: works
 
