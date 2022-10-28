@@ -44,6 +44,7 @@ plugins:
 
 whitelist:
   - jekyll_plugins
+  - jekyll-tagging
 
 
 # Exclude from processing.
