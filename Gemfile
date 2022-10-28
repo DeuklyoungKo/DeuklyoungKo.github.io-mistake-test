@@ -45,4 +45,4 @@ gem "jekyll-include-cache", group: :jekyll_plugins
 gem "jekyll-seo-tag", group: :jekyll_plugins
 
 # for work in github.io
-# gem "github-pages", group: :jekyll_plugins
+gem "github-pages", group: :jekyll_plugins
