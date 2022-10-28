@@ -36,8 +36,11 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 gem "minimal-mistakes-jekyll"
 gem "webrick", "~> 1.7"
 
+gem "jekyll-include-cache"
+gem "jekyll-seo-tag"
+
 # only work in github.io
-gem "jekyll-remote-theme"
-gem "github-pages", group: :jekyll_plugins
-gem "jekyll-include-cache", group: :jekyll_plugins
-gem "jekyll-seo-tag", group: :jekyll_plugins
+# gem "jekyll-remote-theme"
+# gem "github-pages", group: :jekyll_plugins
+# gem "jekyll-include-cache", group: :jekyll_plugins
+# gem "jekyll-seo-tag", group: :jekyll_plugins
