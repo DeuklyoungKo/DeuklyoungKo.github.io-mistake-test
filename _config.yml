@@ -69,6 +69,9 @@ whitelist:
 
 head_scripts:
   - https://code.jquery.com/jquery-3.2.1.min.js
+  # - /assets/js/plugins/jquery.csv.min.js
+  # - /assets/js/csv_to_html_table.js  
+
 
 # teaser: /assets/images/notice_contents.png
 
