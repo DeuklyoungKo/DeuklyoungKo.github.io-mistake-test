@@ -1,7 +1,7 @@
 ---
 output: true
 title:  "csv to html 2"
-date:   2022-10-17 10:38:55 +0900
+date:   2022-10-31 10:38:55 +0900
 categories: jekyll update
 
 
