@@ -1,8 +1,8 @@
 ---
 layout: splash
-header:
-    overlay_image: /assets/images/notice_contents.png
-<!-- image: /assets/images/notice_contents.png -->
+title: 연구소개
+# overlay_image: /assets/images/bg.jpg
+image: /assets/images/notice_contents.png
 ---
 {% include figure image_path="https://shineforall.org/wp-content/uploads/2022/01/footer_bgimg.png" alt="this is a placeholder image" caption="" %}
 

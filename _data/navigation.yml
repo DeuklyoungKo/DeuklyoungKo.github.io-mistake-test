@@ -1,18 +1,20 @@
 
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Posts"
-    url: /year-archive/
-  - title: "categories"
-    url: /categories-archive/
-  - title: "Recipes"
-    url: /recipes/    
-  - title: "Tags"
-    url: /Tags/
+  - title: "연구소개"
+    url: /about/
+  # - title: "Quick-Start Guide"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Posts"
+  #   url: /year-archive/
+  # - title: "categories"
+  #   url: /categories-archive/
+  # - title: "Recipes"
+  #   url: /recipes/    
+  # - title: "Tags"
+  #   url: /Tags/
   - title: "Search"
     url: /search/
 
